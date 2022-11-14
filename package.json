@@ -1,0 +1,29 @@
+{
+  "name": "openmusicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nldminh/OpenMusicBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nldminh/OpenMusicBot/issues"
+  },
+  "homepage": "https://github.com/nldminh/OpenMusicBot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.3.0",
+    "@discordjs/voice": "^0.13.0",
+    "discord-player": "^5.3.2",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
